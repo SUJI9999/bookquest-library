@@ -56,6 +56,7 @@ npm run build
 
 ## Project Structure
 
+```
 src/
 ├── components/
 │   ├── Homepage.jsx    # Main page component
@@ -65,6 +66,7 @@ src/
 ├── App.jsx             # Root component
 ├── main.jsx           # Entry point
 └── index.css          # Global styles
+```
 
 ## API Reference
 
